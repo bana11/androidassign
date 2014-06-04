@@ -1,4 +1,0 @@
-androidassign
-=============
-
-Android Programming Assignment
